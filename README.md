@@ -3,4 +3,4 @@ This is a fun and interactive Birthday Greeting Web App built using Streamlit. I
 
 🚀 Live Demo
 Check it out live here:
-🔗 Birthday Greeting App
+🔗 https://birthday-greeting-qpntmhbwgksfiv3sklvjse.streamlit.app/
