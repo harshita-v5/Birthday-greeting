@@ -1,2 +1,6 @@
-# Birthday-greeting
-🎂 A fun Streamlit app to send personalized birthday wishes with music, video, and virtual balloons!
+🎂 Birthday Greeting App 🎉
+This is a fun and interactive Birthday Greeting Web App built using Streamlit. It allows users to enter their name and receive a personalized birthday message along with background music and a celebration video.
+
+🚀 Live Demo
+Check it out live here:
+🔗 Birthday Greeting App
